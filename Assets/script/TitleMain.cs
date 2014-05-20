@@ -15,6 +15,6 @@ public class TitleMain : MonoBehaviour {
 
 	void SceneChange(){
 		GameObject.Find ("START").GetComponent<BoxCollider>().enabled = false;;
-		CameraFade.StartAlphaFade(Color.black, false, 1.5f, 0f, () => {  Application.LoadLevel("test"); });
+		CameraFade.StartAlphaFade(Color.black, false, 3f, 0f, () => {  Application.LoadLevel("test"); });
 	}
 }

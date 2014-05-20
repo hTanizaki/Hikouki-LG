@@ -79,6 +79,7 @@
      <Compile Include="Assets\NGUI\Examples\Scripts\Other\WindowAutoYaw.cs" />
      <Compile Include="Assets\NGUI\Examples\Scripts\Other\WindowDragTilt.cs" />
      <Compile Include="Assets\NGUI\Scripts\Interaction\LanguageSelection.cs" />
+     <Compile Include="Assets\NGUI\Scripts\Interaction\SE.cs" />
      <Compile Include="Assets\NGUI\Scripts\Interaction\UIButton.cs" />
      <Compile Include="Assets\NGUI\Scripts\Interaction\UIButtonActivate.cs" />
      <Compile Include="Assets\NGUI\Scripts\Interaction\UIButtonColor.cs" />
@@ -174,6 +175,7 @@
      <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
      <Compile Include="Assets\script\BGanim.cs" />
      <Compile Include="Assets\script\BackTitle.cs" />
+     <Compile Include="Assets\script\ButtonAction.cs" />
      <Compile Include="Assets\script\ButtonMember.cs" />
      <Compile Include="Assets\script\CameraFade.cs" />
      <Compile Include="Assets\script\Cube.cs" />
@@ -181,6 +183,7 @@
      <Compile Include="Assets\script\Fade_Rank.cs" />
      <Compile Include="Assets\script\GameMain.cs" />
      <Compile Include="Assets\script\Mouse.cs" />
+     <Compile Include="Assets\script\Mute.cs" />
      <Compile Include="Assets\script\Race.cs" />
      <Compile Include="Assets\script\Resize.cs" />
      <Compile Include="Assets\script\SaveNum.cs" />
