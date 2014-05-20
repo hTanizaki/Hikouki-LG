@@ -1,11 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\Mute.cs">
     <Files>
-      <File FileName="Assets\script\ButtonAction.cs" Line="40" Column="3" />
-      <File FileName="Assets\NGUI\Scripts\Interaction\UIButtonMessage.cs" Line="71" Column="55" />
-      <File FileName="Assets\script\TitleMain.cs" Line="18" Column="50" />
-      <File FileName="Assets\script\Mute.cs" Line="5" Column="33" />
+      <File FileName="Assets\script\ButtonMember.cs" Line="20" Column="1" />
+      <File FileName="Assets\script\SelectMember.cs" Line="9" Column="46" />
+      <File FileName="Assets\NGUI\Scripts\Interaction\SEbutton.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Interaction\SEkasoku.cs" Line="18" Column="3" />
+      <File FileName="Assets\script\Mute.cs" Line="19" Column="39" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
