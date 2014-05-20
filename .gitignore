@@ -2,14 +2,6 @@
 ## Eclipse
 #################
 
-Library
-Temp
-*.pidb
-*.unityproj
-*.sln
-*.userprefs
-
-
 *.pydevproject
 .project
 .metadata
@@ -221,3 +213,11 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+
+Library
+Temp
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
